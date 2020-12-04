@@ -1,0 +1,1921 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Lucas Finn</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style1.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+	<div id="colorlib-page">
+		<div class="container-wrap" style="max-width: 88%;">
+		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
+			<div class="text-center">
+				<div class="author-img" style="background-image: url(images/maina.jpg);"></div>
+				<h1 id="colorlib-logo"><a href="#" style="font-family: sans-serif;" >Lucas Finn </a></h1>
+				<span class="position"><a href="#">Designer</a> in London</span>
+			</div>
+			<nav id="colorlib-main-menu" role="navigation" class="navbar">
+				<div id="navbar" class="collapse">
+					<ul>
+						<li class="active"><a href="#" data-nav-section="home" class="nav-item">Home</a></li>
+						<li><a href="#" data-nav-section="about" class="nav-item">About</a></li>
+						<li><a href="#" data-nav-section="work" class="nav-item" >Work</a></li>
+						<li><a href="#" data-nav-section="personal" class="nav-item">Personal Explorations</a></li>
+						<li><a href="#" data-nav-section="skills" class="nav-item">Skills</a></li>
+						<li><a href="#" data-nav-section="contact" class="nav-item">Contact</a></li>
+					</ul>
+				</div>
+			</nav>
+
+			<div class="colorlib-footer">
+				<p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved </small></p>
+				<ul>
+					<li><a href="#"><i class="icon-facebook2"></i></a></li>
+					<li><a href="#"><i class="icon-twitter2"></i></a></li>
+					<li><a href="#"><i class="icon-instagram"></i></a></li>
+					<li><a href="#"><i class="icon-linkedin2"></i></a></li>
+				</ul>
+			</div>
+
+		</aside>
+
+		<div id="colorlib-main">
+			<section id="colorlib-hero" class="js-fullheight" data-section="home">
+				<div class="flexslider js-fullheight">
+					<ul class="slides">
+				   	<li style="background-image: url(images/main1a.jpg);" >
+				   		<div class="overlay"></div>
+				   		<div class="container-fluid">
+				   			<div class="row">
+					   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text" style="height: auto !important;">
+					   				<div class="slider-text-inner js-fullheight">
+					   					<div class="desc">
+											<h1 style="color: white;">Hi! <br>I'm Lucas</h1>
+											<h2 style="color: white;"><b>I am a 21 year old design student, artist, maker, and inventor.</b></h2>
+										</div>
+					   				</div>
+					   			</div>
+					   		</div>
+				   		</div>
+				   	</li>
+			  	</div>
+			</section>
+
+			<section class="colorlib-about" data-section="about" id="about">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="col-md-12">
+									<div class="about-desc">
+										<span class="heading-meta">About Us</span>
+										<h2 class="colorlib-heading" style="font-family: sans-serif; font-size : 26px;">Who Am I?</h2>
+										<p><strong>Hi there, welcome to my digital portfolio. I'm Lucas.</strong>I am a young keen worker and Design graduate from Goldsmiths University, London. I have a wide
+											skill-set and a strong will to learn new practices. The majority of my professional experience is in
+											hospitality, service, design, gardening and construction. Personally, I have experience in a wide range
+											of digital working practices like videography, music production, graphics and 3D modelling.</p>
+
+										<p>
+											I am an experienced crafts worker in metalworking, sculpting and casting and have a great passion for
+											jewelry making, prop making, constructing tools and works of art. I am looking for a position as an
+											intern in design studios / companies (big or small, hand craft or digital etc.), construction firms, or
+											environmentally oriented organizations as this most interests me and keeps me motivated. Am open to
+											roles in other areas depending on the position. 
+										</p>
+										
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
+									<div class="services color-1">
+										<span class="icon2"><i class="icon-bulb"></i></span>
+										<h3> Multi disciplined hand crafts</h3>
+									</div>
+								</div>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
+									<div class="services color-2">
+										<span class="icon2"><i class="icon-globe-outline"></i></span>
+										<h3>CAD 3D <br>modelling</h3>
+									</div>
+								</div>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
+									<div class="services color-3">
+										<span class="icon2"><i class="icon-data"></i></span>
+										<h3>Music<br> production</h3>
+									</div>
+								</div>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
+									<div class="services color-4">
+										<span class="icon2"><i class="icon-phone3"></i></span>
+										<h3>Digital campaigning</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="colorlib-work" data-section="work" id="work">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">My Work</span>
+							<h2 class="colorlib-heading animate-box" style="font-family: sans-serif; font-size : 20px;">Projects Experience & Exhibits</h2>
+						</div>
+					</div>
+					
+					<div class="row  row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-12">
+							<h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">IB Visual Arts Project - 2014</a></span></h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInTop">
+							<a href="images/1a.JPG" target="_blank">
+								<div class="project" style="background-image: url(images/1a.JPG);">
+									<div class="desc ">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+							<a href="images/2a.JPG" target="_blank">
+								<div class="project" style="background-image: url(images/2a.JPG);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<a href="images/3a.JPG" target="_blank">
+								<div class="project" style="background-image: url(images/3a.JPG);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<a href="images/4a.JPG" target="_blank">
+								<div class="project" style="background-image: url(images/4a.JPG);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<a href="images/5a.JPG" target="_blank">
+								<div class="project" style="background-image: url(images/5a.JPG);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<a href="images/6a.JPG" target="_blank">
+								<div class="project" style="background-image: url(images/6a.JPG);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+					</div>
+					
+					<div class="text-center mt-3">
+						<a href="work.html" class="btn btn-primary" style="width: 50%" id="loadMore" >View more</a>
+					</div>
+				</div>
+
+			</section>
+
+			<section class="colorlib-work" data-section="personal" id="personal">
+                <div class="colorlib-narrow-content">
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                            <span class="heading-meta">Personal Explorations</span>
+                            <h2 class="colorlib-heading animate-box " style="font-family: sans-serif; font-size : 26px;">Personal Explorations</h2>
+                        </div>
+					</div>
+					
+					<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-12">
+							<h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">Digital Works</a></span></h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInTop">
+							<a href="images/37a.JPG" target="_blank">
+								<div class="project" style="background-image: url(images/37a.JPG);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+							<a href="images/38a.jpg" target="_blank">
+								<div class="project" style="background-image: url(images/38a.jpg);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<a href="images/39a.png" target="_blank">
+								<div class="project" style="background-image: url(images/39a.png);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<a href="images/40a.png" target="_blank">
+								<div class="project" style="background-image: url(images/40a.png);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<a href="images/41a.png" target="_blank">
+								<div class="project" style="background-image: url(images/41a.png);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<a href="images/42a.png" target="_blank">
+								<div class="project" style="background-image: url(images/42a.png);">
+									<div class="desc">
+										<div class="con">
+											<h3>View on fullscreen</h3>
+										</div>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+					</div>
+	
+					<div class="text-center mt-3">
+						<a href="explorations.html" class="btn btn-primary" style="width: 50%" id="loadMore" >View more</a>
+					</div>
+				</div>
+
+
+			</section>
+
+			<section class="colorlib-skills" data-section="skills" id="skills">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">My Specialty</span>
+							<h2 class="colorlib-heading animate-box" style="font-family: sans-serif; font-size : 26px;">My Skills</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+							<p>
+								<b>Soft Skills:</b> Digital Campaign & Marketing, Solidworks, Digital Fabrication & Prototyping, Food Service, Pressure washing.
+							</p>
+							<p>
+								<b>Hard Skills:</b> Music production, Video editing, Molding & Casting, Sculpture & Prop Making, Gardening, Rhino 3D, Metalworker.		
+							</p>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Sculpture & Prop Making</h3>
+								<div class="progress">
+										<div class="progress-bar color-3" role="progressbar" aria-valuenow="93"
+										aria-valuemin="0" aria-valuemax="100" style="width:93%">
+									<span>93%</span>
+										</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Molding & Casting</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="92"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:92%">
+								    <span>92%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Video editing</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
+								    <span>90%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Metalworker</h3>
+								<div class="progress">
+										<div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
+										aria-valuemin="0" aria-valuemax="100" style="width:90%">
+									<span>90%</span>
+										</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Garden design and landscaping</h3>
+								<div class="progress">
+										<div class="progress-bar color-5" role="progressbar" aria-valuenow="90"
+										aria-valuemin="0" aria-valuemax="100" style="width:90%">
+									<span>90%</span>
+										</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Music production</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="85"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:85%">
+								    <span>85%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Solidworks</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								    <span>80%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Rhino 3D</h3>
+								<div class="progress">
+										<div class="progress-bar color-0" role="progressbar" aria-valuenow="77"
+										aria-valuemin="0" aria-valuemax="100" style="width:77%">
+									<span>77%</span>
+										</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>photoshop adobe suite</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="75"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
+								    <span>75%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+					
+
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Digital Fabrication & Prototyping</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="75"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
+								    <span>75%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						
+						
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Food Service</h3>
+								<div class="progress">
+										<div class="progress-bar color-4" role="progressbar" aria-valuenow="70"
+										aria-valuemin="0" aria-valuemax="100" style="width:70%">
+									<span>70%</span>
+										</div>
+								</div>
+							</div>
+						</div>
+					</div>
+			</section>
+
+
+			<section class="colorlib-contact" data-section="contact" style="padding-top: 10em;" id="contact">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Get in Touch</span>
+							<h2 class="colorlib-heading">Contact</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-mail"></i>
+								</div>
+								<div class="colorlib-text">
+									<p><a href="mailto:lucasbugge@gmail.com ">lucasbugge@gmail.com</a></p>
+								</div>
+							</div>
+
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-map"></i>
+								</div>
+								<div class="colorlib-text">
+									<p>London</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-phone"></i>
+								</div>
+								<div class="colorlib-text">
+									<p><a href="tel://+4407471886356">+44 (0) 7471886356</a></p>
+								</div>
+							</div>
+
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-whatsapp"></i>
+								</div>
+								<div class="colorlib-text">
+									<p><a href="https://wa.me/+4407471886356">Whatsapp Me</a></p>
+								</div>
+							</div>
+
+							
+						</div>
+					</div>
+				</div>
+			</section>
+
+		</div><!-- end:colorlib-main -->
+	</div><!-- end:container-wrap -->
+	</div><!-- end:colorlib-page -->
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Owl carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Counters -->
+	<script src="js/jquery.countTo.js"></script>
+	
+	
+	<!-- MAIN JS -->
+	<script src="js/main1.js"></script>
+
+	</body>
+</html>
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Lucas Finn</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style1.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+	<div id="colorlib-page">
+		<div class="container-wrap" style="max-width: 88%;">
+		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
+			<div class="text-center">
+				<div class="author-img" style="background-image: url(images/maina.jpg);"></div>
+				<h1 id="colorlib-logo"><a href="#" style="font-family: sans-serif;" >Lucas Finn </a></h1>
+				<span class="position"><a href="#">Designer</a> in London</span>
+			</div>
+			<nav id="colorlib-main-menu" role="navigation" class="navbar">
+				<div id="navbar" class="collapse">
+					<ul>
+						<li class="active"><a href="index.html" data-nav-section="home">Home</a></li>
+						<li><a href="index.html#about" data-nav-section="about">About</a></li>
+						<li><a href="work.html" data-nav-section="work">Work</a></li>
+						<li><a href="explorations.html" data-nav-section="personal">Personal Explorations</a></li>
+						<li><a href="index.html#skills" data-nav-section="skills">Skills</a></li>
+						<li><a href="index.html#contact" data-nav-section="contact">Contact</a></li>
+					</ul>
+				</div>
+			</nav>
+
+			<div class="colorlib-footer">
+				<p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved </small></p>
+				<ul>
+					<li><a href="#"><i class="icon-facebook2"></i></a></li>
+					<li><a href="#"><i class="icon-twitter2"></i></a></li>
+					<li><a href="#"><i class="icon-instagram"></i></a></li>
+					<li><a href="#"><i class="icon-linkedin2"></i></a></li>
+				</ul>
+			</div>
+
+		</aside>
+
+		<div id="colorlib-main">
+
+			
+
+			<section class="colorlib-work" data-section="work" id="work" style="padding-bottom: 0px;">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">My Work</span>
+							<h2 class="colorlib-heading animate-box" style="font-family: sans-serif; font-size : 20px;">Projects Experience & Exhibits</h2>
+						</div>
+					</div>
+					<div class="">
+						<div class="row  row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+							<div class="col-md-12">
+								<h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">IB Visual Arts Project - 2014</a></span></h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInTop">
+								<a href="images/1a.JPG" target="_blank">
+									<div class="project" style="background-image: url(images/1a.JPG);">
+										<div class="desc ">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+								<a href="images/2a.JPG" target="_blank">
+									<div class="project" style="background-image: url(images/2a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<a href="images/3a.JPG" target="_blank">
+									<div class="project" style="background-image: url(images/3a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/4a.JPG" target="_blank">
+									<div class="project" style="background-image: url(images/4a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/5a.JPG" target="_blank">
+									<div class="project" style="background-image: url(images/5a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/6a.JPG" target="_blank">
+									<div class="project" style="background-image: url(images/6a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						</div>
+					
+					</div>
+					<div class="">
+						<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+							<div class="col-md-12">
+								<h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">IB Visual Arts Exhibition - 2016</a></span></h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<a href="images/7a.JPG" target="_blank">
+									<div class="project" style="background-image: url(images/7a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/8a.JPG" target="_blank">
+									<div class="project" style="background-image: url(images/8a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/9a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/9a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/10a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/10a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/11a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/11a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/12a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/12a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						</div>
+					</div>
+					<div class="">
+						<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+							<div class="col-md-12">
+								<h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">Foundation Arts Course Exhibit Ahnenerbe at Prosjektskolen - 2017</a></span></h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<a href="images/13a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/13a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/15a.png" target="_blank">
+									<div class="project" style="background-image: url(images/15a.png);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/16a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/16a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/18a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/18a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/100.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/100.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/101.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/101.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						</div>
+					</div>
+					<div class="">
+						<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+							<div class="col-md-12">
+								<h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">London Electric Cars Internship - 2019</a></span></h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<a href="images/19a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/19a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/106.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/106.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/105.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/105.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/104.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/104.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/107.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/107.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/21a.png" target="_blank">
+									<div class="project" style="background-image: url(images/21a.png);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						</div>
+					</div>
+					<div class="">
+						<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+							<div class="col-md-12">
+								<h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">Handy Man Work - 2020</a></span></h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<a href="images/25a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/25a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/26a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/26a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/27a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/27a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/28a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/28a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/29a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/29a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/30a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/30a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						</div>
+					
+					</div>
+					<div class="">
+						<div class="row">
+							<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+								<h2 class="colorlib-heading animate-box" style="font-family: sans-serif; font-size : 26px;">Gardening & Landscaping</h2>
+							</div>
+						</div>
+						<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+							<div class="col-md-12">
+								<h2 class="work-menu" style="font-family: sans-serif; font-size : 26px;  color: #a06d06"><span><a class="active" ></a>Pinheiro Bravo, Lisbon</a></span></h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInTop">
+								<a href="images/31a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/31a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+								<a href="images/32a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/32a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<a href="images/33a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/33a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/34a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/34a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/35a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/35a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/36a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/36a.jpg);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						</div>
+					</div>
+					<div class="">
+						<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+							<div class="col-md-12">
+								<h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">Oeiras International School Bike Track Build</a></span></h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInTop">
+								<a href="images/43a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/43a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+								<a href="images/44a.JPG" target="_blank">
+									<div class="project" style="background-image: url(images/44a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<a href="images/45a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/45a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/46a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/46a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/47a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/47a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+							<div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<a href="images/48a.jpg" target="_blank">
+									<div class="project" style="background-image: url(images/48a.JPG);">
+										<div class="desc">
+											<div class="con">
+												<h3>View on fullscreen</h3>
+											</div>
+										</div>
+									</div>
+								</a>
+								
+							</div>
+						</div>
+					</div>
+					<!-- <div class="text-center mt-3">
+						<button class="btn btn-primary" style="width: 50%" id="loadMore" >Load more</button>
+					</div> -->
+				</div>
+
+
+			</section>
+
+
+		</div><!-- end:colorlib-main -->
+	</div><!-- end:container-wrap -->
+	</div><!-- end:colorlib-page -->
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Owl carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Counters -->
+	<script src="js/jquery.countTo.js"></script>
+	
+	
+	<!-- MAIN JS -->
+	<script src="js/main1.js"></script>
+
+	<script>
+		// $(document).ready(function () {
+			
+		// 	size_li = $("#work .work-row").size();
+		// 	x=1;
+		// 	$('#work .work-row:lt('+x+')').show();
+
+		// 	$(window).scroll(function() {
+        //         if($(window).scrollTop() == $(document).height() - $(window).height()) {
+        //             x= (x+1 <= size_li) ? x+1 : size_li;
+        //             $('#work .work-row:lt('+x+')').show();
+        //             if(x == size_li){
+        //                 $('#loadMore').hide();
+        //             }
+        //         }
+        //     });
+		// });
+	</script>
+
+	</body>
+</html>
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Lucas Finn</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style1.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+	<div id="colorlib-page">
+		<div class="container-wrap" style="max-width: 88%;">
+		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
+			<div class="text-center">
+				<div class="author-img" style="background-image: url(images/maina.jpg);"></div>
+				<h1 id="colorlib-logo"><a href="#" style="font-family: sans-serif;" >Lucas Finn </a></h1>
+				<span class="position"><a href="#">Designer</a> in London</span>
+			</div>
+			<nav id="colorlib-main-menu" role="navigation" class="navbar">
+				<div id="navbar" class="collapse">
+					<ul>
+						<li class="active"><a href="index.html" data-nav-section="home">Home</a></li>
+						<li><a href="index.html#about" data-nav-section="about">About</a></li>
+						<li><a href="work.html" data-nav-section="work">Work</a></li>
+						<li><a href="explorations.html" data-nav-section="personal">Personal Explorations</a></li>
+						<li><a href="index.html#skills" data-nav-section="skills">Skills</a></li>
+						<li><a href="index.html#contact" data-nav-section="contact">Contact</a></li>
+					</ul>
+				</div>
+			</nav>
+
+			<div class="colorlib-footer">
+				<p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved </small></p>
+				<ul>
+					<li><a href="#"><i class="icon-facebook2"></i></a></li>
+					<li><a href="#"><i class="icon-twitter2"></i></a></li>
+					<li><a href="#"><i class="icon-instagram"></i></a></li>
+					<li><a href="#"><i class="icon-linkedin2"></i></a></li>
+				</ul>
+			</div>
+
+		</aside>
+
+		<div id="colorlib-main">
+
+            <section class="colorlib-work" data-section="personal" id="work" style="padding-bottom: 0px;">
+                <div class="colorlib-narrow-content">
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                            <span class="heading-meta">Personal Explorations</span>
+                            <h2 class="colorlib-heading animate-box " style="font-family: sans-serif; font-size : 26px;">Personal Explorations</h2>
+                        </div>
+                    </div>
+					<div class="">
+                        <div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+                            <div class="col-md-12">
+                                <h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">Digital Works</a></span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInTop">
+                                <a href="images/37a.JPG" target="_blank">
+                                    <div class="project" style="background-image: url(images/37a.JPG);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+                                <a href="images/38a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/38a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                <a href="images/39a.png" target="_blank">
+                                    <div class="project" style="background-image: url(images/39a.png);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/40a.png" target="_blank">
+                                    <div class="project" style="background-image: url(images/40a.png);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/41a.png" target="_blank">
+                                    <div class="project" style="background-image: url(images/41a.png);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/42a.png" target="_blank">
+                                    <div class="project" style="background-image: url(images/42a.png);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+					</div>
+					<div class="">
+                        <div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+                            <div class="col-md-12">
+                                <h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">Jewelry & Resin </a></span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                <a href="images/49a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/49a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/50a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/50a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/51a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/51a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/52a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/52a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/53a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/53a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/54a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/54a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+					</div>
+					<div class="">
+                        <div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+                            <div class="col-md-12">
+                                <h2 class="work-menu"><span><a class="active"style="font-family: sans-serif; font-size : 26px;  color: #a06d06;">Sculpture & Carving</a></span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                <a href="images/93.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/93.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/92.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/92.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/94.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/94.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/90.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/90.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/89.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/89.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/91.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/91.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+					</div>
+					<div class="">
+                        <div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+                            <div class="col-md-12">
+                                <h2 class="work-menu"><span><a class="active"style="font-family: sans-serif; font-size : 26px;  color: #a06d06">Metalwork</a></span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                <a href="images/62a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/62a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/63a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/63a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/95.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/95.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/64a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/64a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/65a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/65a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/66a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/66a.JPG);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+					</div>
+					<div class="">
+                        <div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+                            <div class="col-md-12">
+                                <h2 class="work-menu"><span><a class="active"style="font-family: sans-serif; font-size : 26px;  color: #a06d06">Aluminium Casting & Foundry </a></span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                <a href="images/69a.JPG" target="_blank">
+                                    <div class="project" style="background-image: url(images/69a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/68a.JPG" target="_blank">
+                                    <div class="project" style="background-image: url(images/68a.JPG);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/71a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/71a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/72a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/72a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/98.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/98.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/99.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/99.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>
+                    
+					
+					</div>
+					<div class="">
+                        <div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+                            <div class="col-md-12">
+                                <h2 class="work-menu"><span><a class="active" style="font-family: sans-serif; font-size : 26px;  color: #a06d06">Prop Making</a></span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                <a href="images/73a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/73a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/74a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/74a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/75a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/75a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/76a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/76a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/77a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/77a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                            <div class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <a href="images/78a.jpg" target="_blank">
+                                    <div class="project" style="background-image: url(images/78a.jpg);">
+                                        <div class="desc">
+                                            <div class="con">
+                                                <h3>View on fullscreen</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                                
+                            </div>
+                        </div>	
+					</div>
+					<!-- <div class="text-center mt-3">
+						<button class="btn btn-primary" style="width: 50%" id="loadMore" >Load more</button>
+					</div> -->
+				</div>
+
+
+			</section>
+
+
+		</div><!-- end:colorlib-main -->
+	</div><!-- end:container-wrap -->
+	</div><!-- end:colorlib-page -->
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Owl carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Counters -->
+	<script src="js/jquery.countTo.js"></script>
+	
+	
+	<!-- MAIN JS -->
+	<script src="js/main1.js"></script>
+
+	<script>
+		// $(document).ready(function () {
+			
+		// 	size_li = $("#work .work-row").size();
+		// 	x=1;
+		// 	$('#work .work-row:lt('+x+')').show();
+
+        //     $(window).scroll(function() {
+        //         if($(window).scrollTop() == $(document).height() - $(window).height()) {
+        //             x= (x+1 <= size_li) ? x+1 : size_li;
+        //             $('#work .work-row:lt('+x+')').show();
+        //             if(x == size_li){
+        //                 $('#loadMore').hide();
+        //             }
+        //         }
+        //     });
+		// });
+
+        
+	</script>
+
+	</body>
+</html>
